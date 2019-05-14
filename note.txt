@@ -1,0 +1,18 @@
+yarn add react react-dom
+yarn add -D @babel/core 
+            @babel/preset-env 
+            @babel/preset-react 
+            babel-loader 
+            webpack 
+            webpack-cli
+
+yarn add webpack-dev-server
+
+*****Para determinar os tipos das propriedades 
+yarn add prop-types
+
+yarn add -D @babel/plugin-proposal-class-properties
+
+yarn add -D style-loader css-loader
+yarn add -D sass-loader
+yarn add -D node-sass
